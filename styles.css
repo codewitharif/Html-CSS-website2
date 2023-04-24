@@ -6,7 +6,7 @@
 header {
   height: 100vh;
   background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.2)),
-    url("bg.jpg");
+    url("bg2.jpg");
   background-size: cover;
   font-family: sans-serif;
 }
